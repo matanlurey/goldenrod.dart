@@ -1,0 +1,5 @@
+.dart_tool
+.packages
+coverage_badge.svg
+pubspec.lock
+test/.test_coverage.dart
